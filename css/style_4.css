@@ -1,0 +1,217 @@
+.sec4{
+    height: 580px;
+    margin-top: 20px;
+    background-color: rgb(255, 253, 159);
+}
+.cccc{
+    height: 20px;
+}
+.title1111{
+    text-align: center;
+    font-size: 55px;
+    color: rgb(101, 30, 214);
+    text-shadow: 2px 2px 2px white;
+    margin-top: 50px;
+}
+.div1111{
+    width: 180px;
+    height: 4px ;
+    background-color: black;
+    margin: auto;
+    margin-top: -20px ;
+}
+.parent2222{
+    margin-top: 50px;   
+}
+.div2222{
+    width: 350px;
+    height: 300px;
+    text-align: center;
+    float: left;
+    margin-left: 80px;
+    border: 1px solid  black;
+    background-color: white;
+    position: relative;
+}
+.title2222{
+    font-size: 40px;
+    color: rgb(101, 30, 214);
+    margin-top: 20px;
+    text-shadow: 1px 1px 1px black;
+}
+.a1111{
+    font-size: 25px;
+    text-shadow: 1px 1px 1px black;
+}
+.t1111{
+    font-size: 30px;
+    color: rgb(95, 95, 95);
+    text-decoration: none;
+    text-shadow: 1px 1px 1px rgb(108, 108, 212);
+}
+.t1111:hover{
+    color: white;
+}
+.div3333{
+    width: 350px;
+    height: 300px;
+    text-align: center;
+    float: left;
+    margin-left: 30px;
+    border: 1px solid  black;
+    background-color: white;
+    position: relative;
+}
+.title3333{
+    font-size: 40px;
+    color: rgb(101, 30, 214);
+    margin-top: 20px;
+    text-shadow: 1px 1px 1px black;
+}
+.a2222{
+    font-size: 25px;
+    text-shadow: 1px 1px 1px black;
+}
+.t2222{
+    font-size: 30px;
+    color: rgb(95, 95, 95);
+    text-decoration: none;
+    text-shadow: 1px 1px 1px rgb(108, 108, 212);
+}
+.t2222:hover{
+    color: white;
+}
+.div4444{
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    float: left;
+    margin-left: 30px;
+    border: 1px solid  black;
+    background-color: white;
+    position: relative;
+}
+.title4444{
+    font-size: 40px;
+    color: rgb(101, 30, 214);
+    margin-top: 20px;
+    text-shadow: 1px 1px 1px black;
+}
+.a3333{
+    font-size: 25px;
+    text-shadow: 1px 1px 1px black;
+}
+.t3333{
+    font-size: 30px;
+    color: rgb(95, 95, 95);
+    text-decoration: none;
+    text-shadow: 1px 1px 1px rgb(108, 108, 212);
+}
+.t3333:hover{
+    color: white;
+}
+.icon1111{
+    margin-top: 30px;
+}
+.icon2222{
+    margin-top: 30px;
+}
+.icon3333{
+    margin-top: 30px;
+}
+.icon111:before{
+    font-size: 50px;
+    color: black;
+    background-color: white;
+}
+.icon222:before{
+    font-size: 50px;
+    color: black;
+    background-color: white;
+}
+.icon333:before{
+    font-size: 50px;
+    color: black;
+    background-color: white;
+}
+.div2222:after{
+    background-color: orangered;
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0; 
+    top: 0;
+    left: 0;
+    opacity: 0.9;
+}
+.div2222:hover::after{
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: 2s;    
+}
+.div2222:hover::after .icon111{
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: 2s;    
+}
+.div3333:after{
+    background-color: orangered;
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0; 
+    top: 0;
+    left: 0;
+    opacity: 0.9;
+}
+.div3333:hover::after{
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: 2s;    
+}
+.div3333:hover::after .icon222{
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: 2s;    
+}
+.div4444:after{
+    background-color: orangered;
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0; 
+    top: 0;
+    left: 0;
+    opacity: 0.9;
+}
+.div4444:hover::after{
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: 2s;    
+}
+.div4444:hover::after .icon333{
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: 2s;    
+}
+.div2222:hover .title2222{
+    color: rgb(206, 0, 0);
+    transition: color 0.3s;
+    text-shadow: 2px 2px 2px white;
+}
+.div3333:hover .title3333{
+    color: rgb(206, 0, 0);
+    transition: color 0.3s;
+    text-shadow: 2px 2px 2px white;
+}
+.div4444:hover .title4444{
+    color: rgb(206, 0, 0);
+    transition: color 0.3s;
+    text-shadow: 2px 2px 2px white;
+}

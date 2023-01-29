@@ -1,0 +1,126 @@
+.sec8{
+    width: 1335px;
+    position: absolute;
+    height: 350px;
+    margin-top: 20px;
+    background-color: rgb(124, 166, 185);
+}
+.div_ul{
+    margin-top: 180px;
+}
+.o{
+    margin-left: 480px;
+    font-size: 13px;
+    color: black;
+    text-shadow: 1px 1px 1px white;
+}
+.social_icons_1{
+    color: white;
+    font-size: 20px;
+    border-radius: 50%;
+    margin-left: 13px;
+    margin-top: 10px;
+    width: 0px;
+    height: 0px;
+}
+.social_icons_2{
+    margin-left: 10px;
+    color: white;
+    font-size: 20px;
+    border-radius: 50%;
+    margin-left: 12px;
+    margin-top: 10px;
+    width: 0px;
+    height: 0px;
+}
+.social_icons_3{
+    margin-left: 10px;
+    color: white;
+    font-size: 20px;
+    border-radius: 50%;
+    margin-left: 9px;
+    margin-top: 10px;
+    width: 0px;
+    height: 0px;
+}
+.social_icons_4{
+    margin-left: 10px;
+    color: white;
+    font-size: 20px;
+    border-radius: 50%;
+    margin-left: 12px;
+    margin-top: 10px;
+    width: 0px;
+    height: 0px;
+}
+.social_icons_5{
+    margin-left: 10px;
+    color: white;
+    font-size: 20px;
+    border-radius: 50%;
+    margin-left: 11px;
+    margin-top: 10px;
+    width: 0px;
+    height: 0px;
+}
+.social_icons_6{
+    margin-left: 10px;
+    color: white;
+    font-size: 20px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 0px;
+    height: 0px;
+}
+.led1{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    margin-left: 520px;
+    display: inline-block;
+    border-radius: 50%;
+    margin-top: -20px;
+}
+.led2{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}.led3{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}
+.led4{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}.led5{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}.led6{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}
+.img{
+    height: 180px;
+    width: 200px;
+    margin-top: -150px;
+    margin-left: 550px;
+}
+.img img{
+    border-radius: 30px;
+    margin-top: 15px;
+}

@@ -1,0 +1,216 @@
+header{
+    background-color: rgb(202, 202, 202);
+    height: 80px;
+    width: 1330px;
+    position: fixed;
+    border-radius: 50px;
+    opacity: 0.7;
+}
+html{
+    background-image: url(../images/1.jpg);
+    background-repeat: no-repeat;
+    background-size:  1400px 670px;
+    background-position: top;
+}
+.d11{
+    width: 400px;
+    height: 81px;
+    border: 1px solid  grey;
+    text-align: center;
+    float: left;
+    color:  white;
+    text-shadow: 2px 2px 2px black;
+    background-color: rgb(182, 182, 182);
+    font-size: 65px;
+    margin-left: 0.3px;
+    border-radius: 50px;
+    border: none;
+}
+.div11{
+    width: 1px;
+    height: 10px;
+    border: 1px solid  rgb(202, 202, 202);
+    text-align: center;
+    float: left;
+    margin-left: 350px;
+    color:  white;
+    text-shadow: 2px 2px 2px black;
+    border: none;
+    text-decoration: none;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.div11:hover{
+    color: rgba(152, 187, 252, 0.884);
+}
+.div22{
+    width: 1px;
+    height: 10px;
+    border: 1px solid  grey;
+    text-align: center;
+    float: left;
+    margin-left: 80px;
+    color:  white;
+    text-shadow: 2px 2px 2px black;
+    border: none;
+    font-size: 25px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.div22:hover{
+    color: rgba(152, 187, 252, 0.884);
+}
+.div33{
+    width: 1px;
+    height: 10px;
+    border: 1px solid  grey;
+    text-align: center;
+    float: left;
+    margin-left: 60px;
+    color:  white;
+    text-shadow: 2px 2px 2px black;
+    border: none;
+    font-size: 25px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.div33:hover{
+    color: rgba(152, 187, 252, 0.884);
+}
+.div44{
+    width: 150px;
+    height: 10px;
+    border: 1px solid  grey;
+    text-align: center;
+    float: left;
+    margin-left: 80px;
+    color:  white;
+    text-shadow: 2px 2px 2px black;
+    border: none;
+    font-size: 25px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.div44:hover{
+    color: rgba(152, 187, 252, 0.884);
+}
+.div55{
+    width: 1px;
+    height: 10px;
+    border: 1px solid  grey;
+    text-align: center;
+    float: left;
+    margin-left: 3px;
+    color:  white;
+    text-shadow: 2px 2px 2px black;
+    border: none;
+    font-size: 25px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.div55:hover{
+    color: rgba(152, 187, 252, 0.884);
+}
+.div66{
+    width: 1px;
+    height: 10px;
+    border: 1px solid  grey;
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+    color:  white;
+    text-shadow: 2px 2px 2px black;
+    border: none;
+    font-size: 25px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+.div66:hover{
+    color: rgba(152, 187, 252, 0.884);
+}
+.nav1 .animation{
+    position: absolute;
+    width: 1px;
+    height: 5%;
+    bottom: 25;
+    left: 188px;
+    background-color: black;
+    border-radius: 10px;
+    z-index: -1;
+    transition: 0.5s;
+}
+.nav1 .div11:hover~.animation{
+    width: 65px;
+    left: 748px;
+    background-color: rgba(105, 158, 255, 0.884);
+}
+.nav1 .div22:hover~.animation{
+    width: 50px;
+    left: 832px;
+    background-color: rgba(105, 158, 255, 0.884);
+}
+.nav1 .div33:hover~.animation{
+    width: 85px;
+    left: 895px;
+    background-color: rgba(105, 158, 255, 0.884);
+}
+.nav1 .div44:hover~.animation{
+    width: 115px;
+    left: 991px;
+    background-color: rgba(105, 158, 255, 0.884);
+}
+.nav1 .div55:hover~.animation{
+    width: 85px;
+    left: 1129px;
+    background-color: rgba(105, 158, 255, 0.884);
+}
+.nav1 .div66:hover~.animation{
+    width: 68px;
+    left: 1225px;
+    background-color: rgba(105, 158, 255, 0.884);
+}
+.m1{
+    padding-top: 80px;
+}
+.s11{
+    color: rgb(43, 41, 41);
+    padding-left: 370px;
+    font-size: 90px;
+    text-shadow: 2px 2px 2px white;
+}
+.p22{
+    padding-top: 120px;
+}
+.b11{
+    color: black;
+    background-color: rgba(175, 175, 175, 0.842);
+    border-radius: 20px;
+    width: 230px;
+    height: 60px;
+    font-size: 25px;
+    margin-left: 200px;
+    border-width: 2px;
+    border-color: black;
+    text-shadow: 2px 2px 2px white;
+}
+.b11:hover{
+    color: rgb(0, 52, 100);
+    border-color: rgb(0, 52, 100);
+}
+.b22{
+    color: black;
+    background-color: rgba(175, 175, 175, 0.842);
+    border-radius: 20px;
+    width: 230px;
+    height: 60px;
+    font-size: 25px;
+    margin-left: 200px;
+    border-width: 2px;
+    border-color: black;
+    text-shadow: 2px 2px 2px white;
+    padding-bottom: 0px;
+}
+.b22:hover{
+    color: rgb(0, 52, 100);
+    border-color: rgb(0, 52, 100);
+}
